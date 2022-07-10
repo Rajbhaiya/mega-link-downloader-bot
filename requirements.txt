@@ -4,7 +4,6 @@ aiohttp
 beautifulsoup4
 hachoir
 numpy
-Pillow
 git+https://github.com/XMYSTERlOUSX/pyrogram
 requests
 tgcrypto
