@@ -43,5 +43,5 @@ Press /help for more details!
 press /deletethumbnail if you want to delete saved thumbnail.
 
 
-<b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
+<b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them""" to you!
 
