@@ -67,7 +67,8 @@
     },
     "ACCESS_CHANNEL": {
       "description": "Private group id to spy users.(Should be public group)",
-       "value": ""
+      "value": ""
+      "required": false
     }          
   },
   "addons": [
