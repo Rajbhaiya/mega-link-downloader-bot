@@ -57,5 +57,6 @@ async def start(bot, update):
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
     )
-    tag = f'[{start.from_user.first_name}](tg://user?id={start.from_user.id})'
+    sender = update.from_user.id
+    tag = f'[{event.sender.first_name}](tg://user?id={event.sender_id})'
     await bot.send_message(int(ACCESS_CHANNEL), f'{tag} started the BOT')
