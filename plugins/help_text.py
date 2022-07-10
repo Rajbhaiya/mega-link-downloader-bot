@@ -57,3 +57,5 @@ async def start(bot, update):
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
     )
+    tag = f'[{fuser.sender.first_name}](tg://user?id={fuser.sender_id})'
+    await event.forward_to(int(ACCESS_CHANNEL))
