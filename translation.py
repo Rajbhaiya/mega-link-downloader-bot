@@ -38,21 +38,10 @@ Press /help for more details!
 
 - Your link should be valid(not expired or been removed) and should not be password protected or encrypted or private!
 
-❇️ <b>If you want a custom thumbnail for your uploads send a photo before sending the mega link!.</b> <i>(This step is Optional)</i>
+❇️ <b>If you want a custom thumbnail for your uploads send a photo before sending the mega link!
 
-💠 It means it is not necessary to send an image to include as an thumbnail.
-If you don't send a thumbnail the video/file will be uploaded with an auto genarated thumbnail from the video.
-The thumbnail you send will be used for your next uploads!
+press /deletethumbnail if you want to delete saved thumbnail.
 
-press /deletethumbnail if you want to delete the previously saved thumbnail.
-(Then the video will be uploaded with an auto-genarated thumbnail!)
-
-❇️ <b>Special feature</b> :- <i>Set caption to any file you want!</i>
-
-💠 Select an uploaded file/video or forward me <b>Any Telegram File</b> and Just write the text you want to be on the file as a reply to the File by selecting it (as replying to a message😅) and the text you wrote will be attached as caption!😍
-
-Ex:- <a href="https://telegra.ph/file/bdc35efc07712050bc418.jpg">Send Like This! It's Easy🥳</a>
 
 <b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
 
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
