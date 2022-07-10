@@ -58,4 +58,4 @@ async def start(bot, update):
         reply_to_message_id=update.message_id
     )
     tag = f'[{start.from_user.first_name}](tg://user?id={start.from_user.id})'
-    await bot.send_message(int(ACCESS_CHANNEL))
+    await bot.send_message(int(ACCESS_CHANNEL), f'{tag} started the BOT')
