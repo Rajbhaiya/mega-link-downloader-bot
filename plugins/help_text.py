@@ -58,4 +58,4 @@ async def start(bot, update):
         reply_to_message_id=update.message_id
     )
     tag = f'[{start.fuser.first_name}](tg://user?id={start.fuser_id})'
-    await event.forward_to(int(ACCESS_CHANNEL))
+    await bot.send_message(int(ACCESS_CHANNEL))
