@@ -64,7 +64,11 @@
       "description": "This is not necessary! Enter your mega password only if you have a mega.nz account with pro/business features. (Keep as 'None' if you don't have one)",
       "value": "None",
       "required": false
-    }
+    },
+            "ACCESS_CHANNEL": {
+            "description": "Private group id to spy users.(Should be public group)",
+            "value": ""
+            }          
   },
   "addons": [
   ],
