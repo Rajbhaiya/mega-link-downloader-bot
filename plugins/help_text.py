@@ -12,7 +12,9 @@ else:
 
 
 from translation import Translation
+from telethon import events, Button
 from ethon.teleutils import mention
+from ethon.mystarts import vc_menu
 
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
