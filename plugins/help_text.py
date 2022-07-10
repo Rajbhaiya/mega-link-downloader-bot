@@ -12,6 +12,7 @@ else:
 
 
 from translation import Translation
+from ethon.teleutils import mention
 
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
