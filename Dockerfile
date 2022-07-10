@@ -8,7 +8,6 @@ RUN chmod 777 ./app
 WORKDIR /app/
 RUN apt-get update && apt-get upgrade -y && apt-get install -y --no-install-recommends \
     curl \
-    ethon \
     git \
     python3 \
     python3-pip \
