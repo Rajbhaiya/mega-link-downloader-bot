@@ -29,7 +29,7 @@ class Config(object):
     #If deploying on vps edit the above value as example := REDIS_PASS = "Your-Redis-Password-inside-inverted-commas."
 
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split()) # Id's of the telegram users, who you want to allow for multitasking - downloading multiple links at once!
-    
+    ACCESS_CHANNEL =  os.environ.get("ACCESS_CHANNEL", None)
     #If deploying on heroku separate the ids by space. (don't put commas. Only separate each of the id's with space)
     
     #If deploying on vps edit the above value as example := 
