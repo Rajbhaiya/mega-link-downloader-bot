@@ -12,9 +12,9 @@ I am a <b>Mega Link Downloader</b> bot!
 
 Just enter your mega.nz link and I will return the file/video to you!😇
 
-💠 I can set custom captions and custom thumbnails too!
+⚡️ I can set custom captions and custom thumbnails too!
 
-💠 I can download links which are bigger than 2GB too! 😍
+⚡️ I can download links which are bigger than 2GB too!😍
 
 Press /help for more details!"""
     
@@ -36,7 +36,7 @@ Press /help for more details!"""
 
 - Your link should be valid(not expired or been removed) and should not be password protected or encrypted or private!
 
-❇️ <b>If you want a custom thumbnail for your uploads send a photo before sending the mega link!
+⚡️<b>If you want a custom thumbnail for your uploads send a photo before sending the mega link!
 
 press /deletethumbnail if you want to delete saved thumbnail.
 
