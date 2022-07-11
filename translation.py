@@ -16,9 +16,7 @@ Just enter your mega.nz link and I will return the file/video to you!😇
 
 💠 I can download links which are bigger than 2GB too! 😍
 
-Press /help for more details!
-
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
+Press /help for more details!"""
     
     DOWNLOAD_START = "<b>Downloading to my server now 📥</b> \n\n<code>Please wait uploading will start as soon as possible😇...</code>"
     UPLOAD_START = "Uploading to Telegram now 📤..."
