@@ -27,7 +27,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 REPLY_MARKUP = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton("Join update channel", url="https://t.me/Ja_live_action"),
+        [InlineKeyboardButton("Join update channel", url="https://t.me/Ecchi_world_K"),
          InlineKeyboardButton("Support Group", url = "https://t.me/isabella_support")]])
 
 @Client.on_message(filters.command("help"))
